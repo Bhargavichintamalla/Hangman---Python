@@ -81,6 +81,5 @@ Bhargavi
 
 ## Project Links
 
-* GitHub Repository: [Add Your Repository Link Here]
 * LinkedIn Post: [Add Your LinkedIn Post Link Here]
-* Demo Video: [Add Your Demo Video Link Here]
+* Demo Video: (https://drive.google.com/file/d/1jCeMeXRs3z_-eAtqk1Oz6EbURDcBG068/view?usp=sharing)
