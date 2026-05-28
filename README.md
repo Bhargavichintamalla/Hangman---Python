@@ -81,5 +81,5 @@ Bhargavi
 
 ## Project Links
 
-* LinkedIn Post: [Add Your LinkedIn Post Link Here]
+* LinkedIn Post: (https://www.linkedin.com/posts/bhargavi-chintamalla_codealpha-python-pythonprogramming-ugcPost-7465739975133786112-FNBq/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFQBgIIBqifFRumYyT_fUSeue1L3DRjm8LY)
 * Demo Video: (https://drive.google.com/file/d/1jCeMeXRs3z_-eAtqk1Oz6EbURDcBG068/view?usp=sharing)
